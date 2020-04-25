@@ -1,6 +1,8 @@
 # tubeamp
 **Class-A Vacuum Tube Hybrid Headphone Amplifier**
 
+![TubeAmp naked](https://github.com/Darmur/tubeamp/blob/master/pictures/pict01.JPG)
+
 I've always been fascinated by vacuum tubes, some time ago I decided to start a small project with them, something simple and cheap, as a starting point. After some background study of audio amplifier design with vacuum tubes, I decided to design and build an headphone amplifier. I wanted it to be small, cheap but with excellent quality at the same time.
 
 The outcome of this hobby project was a hybrid amplifier, with pre-amp stage made with dual-triode vacuum tube and power stage made by MOSFET. It can be powered with a relatively low voltage, something between 12.6V and 15V will be more than enough.
