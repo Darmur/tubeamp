@@ -1,0 +1,1 @@
+mounting screws: M1.4x10
